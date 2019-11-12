@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Mi Historia 
 
-You can use the [editor on GitHub](https://github.com/Ridfix12/ridfix12/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ridfix12/ridfix12/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Naci el 24 de julio del 2001-En la ciudad de babahoyo, tengo 18 años me gradue en infomatica en la Unidad Educativa Eugenio espejo.
+alli es donde estudie bachillerato, de 8vo a 10mo estudie en la Unidad Educativa Isabel la Catolica, actualmente vivo en san luis  cerca de jujan
+### Descripcion
+Alto,
+Inquieto,
+De alguna forma tranquilo,
+me gustan los juegos de celular sobretodo si son de accion,
+veo animes, 
+peliculas de accion,
+soy de alguna forma sentimentalmente frio,
+creo en el karma,
+soy catolico aunque ya no balla a la iglecia pero termine mi confirmacion,
+soy adicto a escuchar musica.
+### criterios de otras personas hacia mi
+soy de las personas que si me importa algo pues voy por ello, algunas personas me caracterizan como vanidoso por la forma que visto, cosas que utilizo etc. 
+### esta fue mi paguina personal
+correo: alexcoloma756@gmail.com -
+institucional: alexander.colomag@ug.edu.ec - 
+facebook: https://www.facebook.com/profile.php?id=100005670229228
