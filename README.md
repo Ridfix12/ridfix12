@@ -6,16 +6,16 @@ alli es donde estudie bachillerato, de 8vo a 10mo estudie en la Unidad Educativa
 Alto,
 Inquieto,
 De alguna forma tranquilo,
-me gustan los juegos de celular sobretodo si son de accion,
-veo animes, 
-peliculas de accion,
-soy de alguna forma sentimentalmente frio,
-creo en el karma,
-soy catolico aunque ya no balla a la iglecia pero termine mi confirmacion,
-soy adicto a escuchar musica.
-### criterios de otras personas hacia mi
-soy de las personas que si me importa algo pues voy por ello, algunas personas me caracterizan como vanidoso por la forma que visto, cosas que utilizo etc. 
-### esta fue mi paguina personal
-correo: alexcoloma756@gmail.com -
-institucional: alexander.colomag@ug.edu.ec - 
-facebook: https://www.facebook.com/profile.php?id=100005670229228
+Me gustan los juegos de celular sobretodo si son de accion,
+Veo animes, 
+Peliculas de accion,
+Soy de alguna forma sentimentalmente frio,
+Creo en el karma,
+Soy catolico aunque ya no balla a la iglecia pero termine mi confirmacion,
+Soy adicto a escuchar musica.
+### Criterios de otras personas hacia mi
+Soy de las personas que si me importa algo pues voy por ello, algunas personas me caracterizan como vanidoso por la forma que visto, cosas que utilizo etc. 
+### Esta fue mi paguina personal
+Correo: alexcoloma756@gmail.com -
+Institucional: alexander.colomag@ug.edu.ec - 
+Facebook: https://www.facebook.com/profile.php?id=100005670229228
